@@ -2,8 +2,6 @@
 
 操作系统课程设计
 
-[TOC]
-
 ## 开发环境
 
 
@@ -70,7 +68,7 @@
 
 ## 作者
 
-**姓名：**Kerr
+姓名：Kerr
 
-**联系方式：**emial:[kerr99801@gmail.com](mailto:kerr99801@gmail.com)
+联系方式：emial:[kerr99801@gmail.com](mailto:kerr99801@gmail.com)
 
