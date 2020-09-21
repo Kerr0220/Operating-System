@@ -1,0 +1,6 @@
+File
+1.0
+Name: mojito.txt
+Path: myFileSystem\6\mojito.txt
+Date last updated: 2020-07-10 03:57:42
+--------------------------edit file blew ------------------------------
