@@ -5,10 +5,10 @@
 ## 开发环境
 
 
-* **开发环境:**Windows 10
-* **开发软件:**Eclipse
-* **开发语言：**JavaSE (jdk1.8.0_241)
-* **开发工具包：**Swing
+* **开发环境:**  Windows 10
+* **开发软件:**  Eclipse
+* **开发语言:**  JavaSE (jdk1.8.0_241)
+* **开发工具包:**  Swing
 
 ## 操作说明
 
@@ -132,5 +132,5 @@
 
 姓名：Kerr
 
-联系方式：emial:[kerr99801@gmail.com](mailto:kerr99801@gmail.com)
+联系方式：email:[kerr99801@gmail.com](mailto:kerr99801@gmail.com)
 
