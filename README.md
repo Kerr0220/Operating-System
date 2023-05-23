@@ -8,8 +8,8 @@
 
 ## Author
 
-Name: Yiteng
+Name: Yiteng Zhang
 
-Email:kerr99801@gmail.com
+Email: kerr99801@gmail.com
 
 
